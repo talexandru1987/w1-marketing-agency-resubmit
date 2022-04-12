@@ -2,7 +2,7 @@
 
 
 The HTML and CSS resources in the repository 
-embody a Marketing website which can be found here: https://talexandru1987.github.io/w1-marketing-agency/
+embody a Marketing website which can be found here: https://talexandru1987.github.io/w1-marketing-agency-resubmit/
 
 To help follow the accessibility standards for a website 
 the bellow changes were conducted
