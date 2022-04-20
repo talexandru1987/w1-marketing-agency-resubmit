@@ -1,13 +1,38 @@
 # w1-marketing-agency-resubmit
 
+# Description
 
-The HTML and CSS resources in the repository 
-embody a Marketing website which can be found here: https://talexandru1987.github.io/w1-marketing-agency-resubmit/
+The website client website needs to be refactored to follow the accessibility standards by including more semantic elements and following best practices when writing the code (add comments, remove repetitive code)
 
+
+# Repository
+
+The project repository can be found here: https://talexandru1987.github.io/w1-marketing-agency-resubmit/
+
+# Img Before
+
+![Demo](./assets/images/demo.png)
+
+# Img after
+
+![Demo](./assets/images/after.png)
 To help follow the accessibility standards for a website 
 the bellow changes were conducted
 
-IMPLEMENTED CHANGES!
+# Refactor Criteria
+
+ Make it accessible
+- Possibly refactor CSS code
+- Use semantic HTML elements where possible
+- Include comments
+- Make sure the page has a logical structure (title, header, body, footer)
+- There should be a logical order to headings (h1->h6)
+- Ensure there are alt attributes for all images and keep it descriptive
+- Document title (head element) should be descriptive
+- Search Engine Optimisation nav link is broken (fix it) 
+- Remove duplicate class names in CSS and replace with generic class name in HTML
+
+# IMPLEMENTED CHANGES!
 
 ***Index.html******
 Metadata section:
