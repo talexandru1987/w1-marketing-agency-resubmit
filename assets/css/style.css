@@ -88,58 +88,29 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h4 {
+.benefits-content > h2 {
     margin-bottom: 10px;
     text-align: center;
     font-size: 1.17em;
 }
 
-.benefit-brand h5 {
-    margin-bottom: 10px;
-    text-align: center;
-    font-size: 1.17em;
-}
 
-.benefit-cost h6 {
-    margin-bottom: 10px;
-    text-align: center;
-    font-size: 1.17em;
-}
 
-.benefit-lead img {
+.benefits-content > img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.search-engine-optimization {
+.content-search-engine {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -148,50 +119,18 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.content-search-engine img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
 
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h1 {
+.content-search-engine h1 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.social-media-marketing h3 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /*the css style for the footer of the webpage*/
 footer {
     padding: 30px;
@@ -200,6 +139,3 @@ footer {
     text-align: center;
 }
 
-footer h2 {
-    font-size: 20px;
-}
